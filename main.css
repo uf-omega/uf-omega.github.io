@@ -4,6 +4,7 @@
 }
 
 body {
+    margin: 0px;
     color: #ea3c45;
     background-color: black;
     font-family: Determination-Mono;
@@ -18,6 +19,9 @@ a {
     border: 4px solid #ea3c45;
     padding: 10px;
     margin: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
     font-size: 32px;
 }
 
@@ -76,7 +80,7 @@ a {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 10px;
+  padding: 12px;
   text-decoration: none;
 }
 
