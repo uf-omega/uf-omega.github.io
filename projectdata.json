@@ -1,0 +1,44 @@
+{
+  "chapters": {
+    "1": {
+      "name": "HOPES",
+      "desc": "Hope is the power that drives PERSEVERANCE.",
+      "length": null
+    },
+    "2": {
+      "name": "DREAMS",
+      "desc": "Dreams are the power that drive DETERMINATION.",
+      "length": null
+    },
+    "3": {
+      "name": "ALONE",
+      "desc": "The hardest path is the one traveled alone.",
+      "length": null
+    },
+    "4": {
+      "name": "PAIN",
+      "desc": "Pain is the best teacher because it is the cruelest one. Yet it often sees a lesson where there is none.",
+      "length": null
+    },
+    "5": {
+      "name": "TOGETHER",
+      "desc": "Together we PERSEVERE.",
+      "length": null
+    },
+    "6": {
+      "name": "HELLFIRE",
+      "desc": "Hellfire scorches all.",
+      "length": null
+    },
+    "7": {
+      "name": "REDEMPTION",
+      "desc": "Redemption is a lie, yet those who take it often see it as the only way forward.",
+      "length": null
+    },
+    "8": {
+      "name": "HATRED",
+      "desc": "Hatred is a double-edged sword.",
+      "length": null
+    }
+  }
+}
